@@ -15,7 +15,7 @@ Did the legalization of recreational cannabis in Canada in 2018 causally affect 
 
 ## Methodology
 
-1. Applied the synthetic control method to construct a counterfactual for Canada
+1. Applied the Synthetic Control Method to construct a counterfactual for Canada
 
 2. Selected donor countries based on pre-treatment fit
 
