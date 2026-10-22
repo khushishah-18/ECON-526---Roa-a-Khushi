@@ -9,7 +9,7 @@ Did the legalization of recreational cannabis in Canada in 2018 causally affect 
 
 1. Labour productivity (USD per hour worked) from OECD
 
-2. Annual data, 2000–2023
+2. Annual data, 1997–2023
 
 3. Donor pool: advanced economies with no cannabis legalization during the pre-treatment period
 
